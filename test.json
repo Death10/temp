@@ -1,4 +1,4 @@
-{
+[{
     cover: 'https://rimg.bookwalker.jp/7511934/frDGCemG5kX9EBY8IrbThQ__.jpg',
     trial0: false,
     trial: '/read/1',
@@ -24,5 +24,5 @@
       },
       { volume: 'Volume 2', chapter: [{ name: 'Chapter 1', link: '/read/1' }] },
       { volume: 'Volume 3', chapter: [{ name: 'Chapter 1', link: '/read/1' }] },
-    ],
-  };
+    ]
+  }]
